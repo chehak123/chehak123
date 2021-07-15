@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-<h1 align="center">I'm Chehak  <img src="https://static.vecteezy.com/system/resources/previews/002/188/442/original/girl-working-on-her-laptop-student-or-freelancer-flat-illustration-vector.jpg" width="100px">
+<h1 align="center">I'm Chehak  <img src="https://static.vecteezy.com/system/resources/previews/002/188/442/original/girl-working-on-her-laptop-student-or-freelancer-flat-illustration-vector.jpg" width="80px">
 </h1>
 
 <p align="center">
