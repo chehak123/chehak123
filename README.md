@@ -1,6 +1,6 @@
 ### Hi there 👋
 <br>
-<h1 align="center">I'm Chehak  <img src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300" width="80px">
+<h1 align="center">I'm Chehak  <img src="https://media.istockphoto.com/vectors/young-female-programmer-pointing-on-the-closing-bracket-tag-on-a-vector-id836681032?b=1&k=6&m=836681032&s=612x612&w=0&h=nQ34YE014M5TCPGSOUm9R24rf4GUy2IyIM1nVASbovI=" width="80px">
 </h1>
 
 <p align="center">
