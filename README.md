@@ -3,12 +3,12 @@
 <h1 align="center">I'm Chehak  <img src="https://static.vecteezy.com/system/resources/previews/002/188/442/original/girl-working-on-her-laptop-student-or-freelancer-flat-illustration-vector.jpg" width="80px">
 </h1>
 
-<p align="center">
+<h5 align="center">
   <em>
-    Myself Chehak Agrawal, a second year undergraduate pursuing B.Tech (Software Engineering) from <b>Delhi Technological University</b>, Delhi. <br>
+    Myself Chehak Agrawal, a pre-final year undergraduate pursuing B.Tech (Software Engineering) from <b>Delhi Technological University</b>, Delhi. <br>
     A <b>Full-Stack Web Developer </b> and a <b>Programmer</b>
   </em>
-</p>
+</h5>
 
 <br><br>
 
